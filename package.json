@@ -1,0 +1,16 @@
+{
+  "name": "sigfig",
+  "version": "0.0.1",
+  "description": "sigfig - a tool for rounding to sigfigs.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/rickyvetter/sigfig.git"
+  },
+  "author": "Ricky Vetter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rickyvetter/sigfig/issues"
+  },
+  "homepage": "https://github.com/rickyvetter/sigfig"
+}
